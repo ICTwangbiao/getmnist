@@ -1,0 +1,8 @@
+GET MNIST DATASET
+@author ICTwangbiao
+
+@date 2014.08.20
+(1) use MNIST module to import and preprocess MNIST dataset
+(2) use getmnist.py to write data into two files(mnistTrain and mnistTest is too big to upload)
+(3) the data form just like: feature1 + SPACE + feature2 ... + SPACE + featureN + SPACE + target + '\n'
+(4) if you just want to run code file getmnist.py, please goto http://yann.lecun.com/exdb/mnist/ to download data file and decompress this package into ./data folder, just like ./data/t10k-images-idx3-ubyte, and at the same time create two txt files named mnistTest.txt and mnistTrain.txt :)
